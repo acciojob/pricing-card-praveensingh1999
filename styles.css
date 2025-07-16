@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+main{
+	width: 7cm;
+	height: 12cm;
+	paddin-left: 20px;
+	background-color: rgb(241,241,241);
+	box-shadow: 10px 10px;
+}
+img{
+	width: 200px;
+}
+button{
+	padding: 10px;
+		background-color: pink;
+	color: white;
+	border-radius: 10px;
+}
